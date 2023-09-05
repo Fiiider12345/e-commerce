@@ -58,6 +58,7 @@ public class WebSecurityConfiguration {
 
 	       return http.build();
 	   }
+	   //just for set github again
 	   
 //	   @Autowired
 //	    public void configureGlobal(AuthenticationManagerBuilder authenticationManagerBuilder) throws Exception {
